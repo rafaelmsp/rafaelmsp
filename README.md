@@ -15,6 +15,16 @@ Possuo experiência em **desenvolvimento de soluções inovadoras, automação d
 Além disso, tenho forte base em **metodologias ágeis, gestão de riscos e LGPD**, sempre alinhando tecnologia à estratégia organizacional.
 
 ---
+<h2>🚀 Tech Stack</h2>
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
+
 
 ## 🧩 Formação Acadêmica
 - 📚 **Bacharelado em Direito (Estácio de Sá – em andamento)**  
@@ -63,7 +73,6 @@ Além disso, tenho forte base em **metodologias ágeis, gestão de riscos e LGPD
 
 ## 📊 Estatísticas do GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rafaelmsp&show_icons=true&theme=dark" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelmsp&layout=compact&theme=dark" height="165"/>
 </p>
 
@@ -86,7 +95,7 @@ Além disso, tenho forte base em **metodologias ágeis, gestão de riscos e LGPD
 ---
 
 ## 💡 Curiosidades
-- 🚀 Fundador do **MAKTUB Cybercafé**, iniciativa de inclusão digital e suporte em TI por 10 anos.  
+- 🚀 Fundador do **MAKTUB Computação e Inovação**, iniciativa de inclusão digital e suporte em TI por 10 anos.  
 - 🏅 Recebi **Moção de Aplausos** da Câmara de Duque de Caxias por iniciativas sociais ligadas à tecnologia.  
 - 📖 Apaixonado por unir **Tecnologia + Direito + Educação** para transformar realidades.  
 
