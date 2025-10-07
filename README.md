@@ -15,6 +15,17 @@ Possuo experiência em **desenvolvimento de soluções inovadoras, automação d
 Além disso, tenho forte base em **metodologias ágeis, gestão de riscos e LGPD**, sempre alinhando tecnologia à estratégia organizacional.
 
 ---
+
+## 📌 Projetos em Destaque
+🔎 [JobHunter](https://github.com/rafaelmsp/jobhunter) → Agregador de vagas (Python + Tkinter + API Adzuna)  
+🏠 [Aluga](https://github.com/rafaelmsp/Aluga) → CRM Imobiliário (Spring Boot + Angular + PostgreSQL)  
+🗂️ [Sistema de Cadastro Angular/Node](https://github.com/rafaelmsp/Sistema-de-cadastro-feito-em-angular-node)  
+🍽️ [Cardápio Spring Boot](https://github.com/rafaelmsp/cardapioSpringBoot.backend)  
+☁️ [Previsão do Tempo 2.0](https://github.com/rafaelmsp/previsaodotempo2.0)  
+🎮 [Tetris Neon — Android Edition](https://github.com/rafaelmsp/tetrisNeon) → Jogo retrô-futurista em HTML5 com efeitos neon, trilha sonora e integração Android WebView, Android Studio, java, Kotlin.
+
+---
+
 <h2>🚀 Tech Stack</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -39,14 +50,6 @@ Além disso, tenho forte base em **metodologias ágeis, gestão de riscos e LGPD
 - 🎓 **Pós-Graduação em Gestão de TI – Faculdade Focus**  
 - 🎓 **Bacharelado em Sistemas de Informação – UNIGRANRIO Afya**
 
----
-## 📌 Projetos em Destaque
-🔎 [JobHunter](https://github.com/rafaelmsp/jobhunter) → Agregador de vagas (Python + Tkinter + API Adzuna)  
-🏠 [Aluga](https://github.com/rafaelmsp/Aluga) → CRM Imobiliário (Spring Boot + Angular + PostgreSQL)  
-🗂️ [Sistema de Cadastro Angular/Node](https://github.com/rafaelmsp/Sistema-de-cadastro-feito-em-angular-node)  
-🍽️ [Cardápio Spring Boot](https://github.com/rafaelmsp/cardapioSpringBoot.backend)  
-☁️ [Previsão do Tempo 2.0](https://github.com/rafaelmsp/previsaodotempo2.0)  
-🎮 [Tetris Neon — Android Edition](https://github.com/rafaelmsp/tetrisNeon) → Jogo retrô-futurista em HTML5 com efeitos neon, trilha sonora e integração Android WebView, Android Studio, java, Kotlin.
 
 ---
 
