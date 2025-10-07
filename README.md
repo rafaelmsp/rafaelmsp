@@ -40,17 +40,6 @@ Além disso, tenho forte base em **metodologias ágeis, gestão de riscos e LGPD
 - 🎓 **Bacharelado em Sistemas de Informação – UNIGRANRIO Afya**
 
 ---
-
-## 🛠️ Competências Técnicas
-- **Linguagens**: Java, JavaScript, Node.js, Python, C++, C#, SQL, HTML, CSS  
-- **Frameworks**: Spring Boot, Angular  
-- **Banco de Dados**: MySQL, PostgreSQL, SQLite  
-- **Ferramentas & Infra**: GitHub, Docker, Linux, Windows, Active Directory, Apache, Virtualização, Kubernetes  
-- **Análise & Gestão**: UML, ERP, Power BI, DevOps, Metodologias Ágeis (Scrum, Kanban)  
-- **Outros**: IoT, Automação, Redes, Infraestrutura de hardware  
-
----
-
 ## 📌 Projetos em Destaque
 🔎 [JobHunter](https://github.com/rafaelmsp/jobhunter) → Agregador de vagas (Python + Tkinter + API Adzuna)  
 🏠 [Aluga](https://github.com/rafaelmsp/Aluga) → CRM Imobiliário (Spring Boot + Angular + PostgreSQL)  
@@ -59,6 +48,15 @@ Além disso, tenho forte base em **metodologias ágeis, gestão de riscos e LGPD
 ☁️ [Previsão do Tempo 2.0](https://github.com/rafaelmsp/previsaodotempo2.0)  
 🎮 [Tetris Neon — Android Edition](https://github.com/rafaelmsp/tetrisNeon) → Jogo retrô-futurista em HTML5 com efeitos neon, trilha sonora e integração Android WebView, Android Studio, java, Kotlin.
 
+---
+
+## 🛠️ Competências Técnicas
+- **Linguagens**: Java, JavaScript, Node.js, Python, C++, C#, SQL, HTML, CSS  
+- **Frameworks**: Spring Boot, Angular  
+- **Banco de Dados**: MySQL, PostgreSQL, SQLite  
+- **Ferramentas & Infra**: GitHub, Docker, Linux, Windows, Active Directory, Apache, Virtualização, Kubernetes  
+- **Análise & Gestão**: UML, ERP, Power BI, DevOps, Metodologias Ágeis (Scrum, Kanban)  
+- **Outros**: IoT, Automação, Redes, Infraestrutura de hardware  
 
 ---
 
