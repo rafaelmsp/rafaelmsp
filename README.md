@@ -57,6 +57,8 @@ Além disso, tenho forte base em **metodologias ágeis, gestão de riscos e LGPD
 🗂️ [Sistema de Cadastro Angular/Node](https://github.com/rafaelmsp/Sistema-de-cadastro-feito-em-angular-node)  
 🍽️ [Cardápio Spring Boot](https://github.com/rafaelmsp/cardapioSpringBoot.backend)  
 ☁️ [Previsão do Tempo 2.0](https://github.com/rafaelmsp/previsaodotempo2.0)  
+🎮 [Tetris Neon — Android Edition](https://github.com/rafaelmsp/tetrisNeon) → Jogo retrô-futurista em HTML5 com efeitos neon, trilha sonora e integração Android WebView.
+
 
 ---
 
