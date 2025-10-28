@@ -30,7 +30,8 @@ O jogador pilota uma nave de combate enfrentando ondas de inimigos, chefes e des
 
 🍽️ [Cardápio Spring Boot](https://github.com/rafaelmsp/cardapioSpringBoot.backend)  
 
-☁️ [Previsão do Tempo 2.0](https://github.com/rafaelmsp/previsaodotempo2.0)  
+☁️ [Previsão do Tempo 2.0](https://github.com/rafaelmsp/previsaodotempo2.0)  Este é um aplicativo de previsão do tempo construído usando React, Axios, OpenWeather API, e Leaflet.
+
 
 🎮 [Tetris Neon — Android Edition](https://github.com/rafaelmsp/tetrisNeon) → Jogo retrô-futurista em HTML5 com efeitos neon, trilha sonora e integração Android WebView, Android Studio, java, Kotlin.
 
