@@ -17,6 +17,9 @@ Além disso, tenho forte base em **metodologias ágeis, gestão de riscos e LGPD
 ---
 
 ## 📌 Projetos em Destaque
+
+📚 LexGestor(https://github.com/rafaelmsp/Lexgestor) - Crm Jurídico com controle completo para escritório de advocacia 
+
 🔎 [JobHunter](https://github.com/rafaelmsp/jobhunter) → Agregador de vagas (Python + Tkinter + API Adzuna)  
 
 🏠 [AlugaPlus CRM Pro](https://github.com/rafaelmsp/AlugaPlus) → O AlugaPlus CRM Pro é um sistema de gestão imobiliária desenvolvido com Spring Boot 3 (Java 17), 
